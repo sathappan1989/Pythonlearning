@@ -5,7 +5,7 @@ num = 3.4
 # num = -4.5
 
 if num > 0:
-    print("Positive number")
+    print("Positive number1")
 elif num == 0:
     print("Zero")
 else:
